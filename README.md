@@ -10,4 +10,12 @@ Pada directory github ini akan terdapat beberapa model hasil training dari datas
 
 Jika ingin melakukan training, maka lakukan langkah berikut
 
+1. Extract file capstone.zip
+2. Tambahkan CSV yang terdapat pada dataset/tambahkan dataset sendiri
+3. Ubah destinasi dalam file ts_forecasting.py agar sesuai dengan directory anda
+4. Gunakan command conda env create -f environment.yml sesuai dengan file .yml yang terdapat pada github ini (disarankan diganti nama environmentnya)
+5. Aktifkan environment hasil import dengan command conda activate <environment_name>
+6. Buka command prompt dan cd ke directory hasil unzip
+7. Jalankan command python
+8. Tunggu hingga training selesai
 
