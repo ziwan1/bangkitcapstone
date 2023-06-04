@@ -5,3 +5,4 @@ Tim kami mengumpulkan dataset dalam kurun waktu 1 Januari 2010 hingga 10 April 2
 
 Dataset ada di https://intip.in/datasetcuaca
 
+Dataset tersebut kami dapatkan dengan scraping API openmeteo menggunakan script yang terdapat
