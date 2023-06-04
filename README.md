@@ -6,4 +6,8 @@ Dataset ada di https://intip.in/datasetcuaca
 
 Dataset tersebut kami dapatkan dengan scraping API openmeteo menggunakan script yang terdapat pada file apiscraper.ipynb
 
+Pada directory github ini akan terdapat beberapa model hasil training dari dataset yang kami kumpulkan 
+
+Jika ingin melakukan training, maka lakukan langkah berikut
+
 
