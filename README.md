@@ -4,6 +4,8 @@ Tim kami mengumpulkan dataset dalam kurun waktu 1 Januari 2010 hingga 10 April 2
 
 Dataset ada di https://intip.in/datasetcuaca
 
+Dataset pembuatan model ada di https://intip.in/datasetv1
+
 Dataset tersebut kami dapatkan dengan scraping API openmeteo menggunakan script yang terdapat pada file apiscraper.ipynb
 
 Pada directory github ini akan terdapat beberapa model hasil training dari dataset yang kami kumpulkan 
